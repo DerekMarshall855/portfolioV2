@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AC3, Sudoku on Home</title>
+    <link>https://derekportfolio.com/tags/ac3-sudoku/</link>
+    <description>Recent content in AC3, Sudoku on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://derekportfolio.com/tags/ac3-sudoku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AC3 Sudoku Solver</title>
+      <link>https://derekportfolio.com/blog/ac3-sudoku/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekportfolio.com/blog/ac3-sudoku/</guid>
+      <description>&lt;p&gt;A Sudoku puzzle solver that uses the AC3 algorithm. This was an acadmeic project programmed using python.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
