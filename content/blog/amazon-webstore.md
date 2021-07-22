@@ -10,7 +10,7 @@ An amazon webstore clone built on the MERN stack. All of the frontend is built u
 
 <!--more-->
 
-The [`Amazon Webstore Clone`](https://webstore-clone.netlify.app/) frontend is currently hosted on weblify, with the backend being hosted on mongoDB Atlas. The code for this project can be found on my github or by following this [link!](https://github.com/DerekMarshall855/AmazonClone)
+The [`Amazon Webstore Clone`](https://webstore-clone.netlify.app/) frontend is currently hosted on weblify, with the backend being hosted on Heroku. The code for this project can be found on my github or by following this [link!](https://github.com/DerekMarshall855/AmazonClone)
 
 ---
 
