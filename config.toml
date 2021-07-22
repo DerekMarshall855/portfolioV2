@@ -1,0 +1,52 @@
+theme = "showfolio"
+languageCode = "en-us"
+baseurl = "https://derekportfolio.com"
+title = "Home"
+
+
+[params]
+  name = "Derek's Portfolio"
+  description = "Modern portfolio theme for your Hugo site."
+  author = "Derek Marshall"
+  authorEmail = "derekmarshall855@gmail.com"
+  authorImage = "/photo.png"
+  autoDarkMode = true
+
+  copyright = "Copyright © 2021 - Derek Marshall · All rights reserved"
+  favicon = "favicon.ico"
+
+[params.homepage]
+  title = "Hey 👋 I'm Derek Marshall"
+  tagline = "New Graduate Software Developer"
+  description = "Graduated from Wilfrid Laurier University with a 10.2/12 GPA. Currently looking for work as a full stack or focused (Backend/Frontend) web developer."
+  contact = "https://linkedin.com/in/derekmarshall855"
+
+[params.homepage.codepen]
+  username = ""
+  pens = []
+
+[params.homepage.resume]
+  skills = ["Full Stack Development", "Problem Solving", "Teamwork", "Communication"]
+
+[[params.homepage.resume.work]]
+  name = "Premier Equipment Ltd."
+  role = "Storefront Administration"
+  duration = "April 2019 - August 2020"
+
+[[params.homepage.resume.courses]]
+  name = "Computer Science and Psychology"
+  provider = "Wilfrid Laurier University"
+  duration = "Sept 2017 - Apr 2021"
+  gpa = "10.2 CGPA"
+
+[params.homepage.social]
+  linkedin = "https://linkedin.com/in/derekmarshall855"
+  github = "https://github.com/derekmarshall855"
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
