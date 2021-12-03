@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on Home</title>
+    <link>https://www.derekmarshall.net/tags/portfolio/</link>
+    <description>Recent content in portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.derekmarshall.net/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Original Porfolio</title>
+      <link>https://www.derekmarshall.net/blog/original-portfolio/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.derekmarshall.net/blog/original-portfolio/</guid>
+      <description>&lt;p&gt;A frontend only portfolio built using react and typescript. This was my original portfolio before I became more proficient at frontend development. Everything here was built by me from scratch, unlike my current portfolio which is generated using HUGO. Similar to most of my projects this pages is fully dynamic and viewable from any size of screen.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

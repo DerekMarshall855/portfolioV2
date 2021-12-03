@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Home</title>
+    <link>https://www.derekmarshall.net/tags/game/</link>
+    <description>Recent content in game on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.derekmarshall.net/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robot Slime Fun Time</title>
+      <link>https://www.derekmarshall.net/blog/robot-slime-game/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.derekmarshall.net/blog/robot-slime-game/</guid>
+      <description>&lt;p&gt;A game built for the GDU-5 game jam over the March 27-29 weekend. The game was built by me and a friend using the Godot game enginee for 2d development.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
