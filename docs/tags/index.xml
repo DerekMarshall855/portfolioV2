@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Home</title>
+    <link>https://derekmarshall855.github.io/portfolioV2/tags/</link>
+    <description>Recent content in Tags on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://derekmarshall855.github.io/portfolioV2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>webstore</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/webstore/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/webstore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/portfolio/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/blog/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calendar, scheduler</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/calendar-scheduler/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/calendar-scheduler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/game/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android, game</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/android-game/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/android-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphics</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/graphics/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AC3, Sudoku</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/ac3-sudoku/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/ac3-sudoku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A*, IDA*, N-Puzzle</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java, game</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/java-game/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/java-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking, Client, Server</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/networking-client-server/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/networking-client-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFS, 8-Puzzle</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/tags/dfs-8-puzzle/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/tags/dfs-8-puzzle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

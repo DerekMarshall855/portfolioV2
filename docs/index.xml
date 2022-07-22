@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio Homepage 👋 on Home</title>
+    <link>https://derekmarshall855.github.io/portfolioV2/</link>
+    <description>Recent content in Portfolio Homepage 👋 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://derekmarshall855.github.io/portfolioV2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Webstore Clone</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/amazon-webstore/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/amazon-webstore/</guid>
+      <description>&lt;p&gt;An amazon webstore clone built on the MERN stack. All of the frontend is built using typescript, while the backend was developed using vanilla js. It includes a backend API for orders, products, and users, a dynamic frontend with vanilla css and typescript, web tokens for user authentication, password salting and encryption, a react-redux store for statefulness, and detailed schema for data storage.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Original Porfolio</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/original-portfolio/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/original-portfolio/</guid>
+      <description>&lt;p&gt;A frontend only portfolio built using react and typescript. This was my original portfolio before I became more proficient at frontend development. Everything here was built by me from scratch, unlike my current portfolio which is generated using HUGO. Similar to most of my projects this pages is fully dynamic and viewable from any size of screen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blog Site</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/blog-website/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/blog-website/</guid>
+      <description>&lt;p&gt;A basic blog site that was inspired by twitter. Displays a vertical menu and has built in authorization and authentication. User can make and comment on posts if they are logged in. Has a backend API designed and implemented using MongoDB, ExpressJS and NodeJS. This was the last project I did before commiting to better my CSS, which is obvious by the bland layout.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/about/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/about/</guid>
+      <description>I am a detail-oriented and self-motivated Computer Science and Psychology graduate with some experience in software development, data analysis and problem solving. I&amp;rsquo;m passionate about computer science and eager to expand knowledge in web development. Currently I am working on improving my skills in developing full stack using MERN (MongoDB, Express, React, NodeJS) as an intern at LeapGrad. On my personal time I have been learning new languages such as Golang and C++, trying to expand my knowledge of backend and graphics development.</description>
+    </item>
+    
+    <item>
+      <title>My Dynamic Scheduler</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/my-dynamic-scheduler/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/my-dynamic-scheduler/</guid>
+      <description>&lt;p&gt;A group academic project built by me and two others (team of three) in April 2021. This was the first full stack MERN application I had ever developed. Uses a ReactJS frontend and a NodeJS backend.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robot Slime Fun Time</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/robot-slime-game/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/robot-slime-game/</guid>
+      <description>&lt;p&gt;A game built for the GDU-5 game jam over the March 27-29 weekend. The game was built by me and a friend using the Godot game enginee for 2d development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Captain Code</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/captain-code/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/captain-code/</guid>
+      <description>&lt;p&gt;A group academic project built by me and four others (team of five) in December 2020. This was my first android application I had ever developed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Computer Graphics Showroom</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/graphics-showroom/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/graphics-showroom/</guid>
+      <description>&lt;p&gt;The first website I had ever built. This site used Three.JS library to render multiple objects and allow the user to traverse the room using &amp;lsquo;wasd&amp;rsquo; controls. The user could also interact with different lights and objects in the room, changing their color or direction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AC3 Sudoku Solver</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/ac3-sudoku/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/ac3-sudoku/</guid>
+      <description>&lt;p&gt;A Sudoku puzzle solver that uses the AC3 algorithm. This was an acadmeic project programmed using python.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>N-Puzzle Solver</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</guid>
+      <description>&lt;p&gt;A N-Puzzle solver that uses the IDA* and A* path finding algorithm. This was an acadmeic project programmed using python. Could solve 8, 15, and 24 block puzzles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Keyboard and Mouse Practice (KAMP)</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/kamp/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/kamp/</guid>
+      <description>&lt;p&gt;A group academic project built by me and three others (team of four) in November 2019. This was my first game I had ever built. The team used 100% java code with no external libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bulletin Board</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/bulletin-board/</link>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/bulletin-board/</guid>
+      <description>&lt;p&gt;A basic client server application, allowing multiple users to connect to the server and post/share posts on a virtual bulletin board. Project developed in python and developed for academic purposes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>8-Puzzle Solver</title>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/8-puzzle-c/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/8-puzzle-c/</guid>
+      <description>&lt;p&gt;A 8-Puzzle solver that uses the DFS algorithm. This was an acadmeic bonus project programmed using C. Could solve 8 block puzzles.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,7 @@ theme = "showfolio"
 languageCode = "en-us"
 baseurl = "https://derekmarshall855.github.io/portfolioV2/"
 title = "Home"
+publishDir = "docs"
 
 
 [params]
