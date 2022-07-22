@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>android, game on Home</title>
-    <link>https://derekmarshall855.github.io/portfolioV2/tags/android-game/</link>
+    <link>//derekmarshall855.github.io/portfolioV2/tags/android-game/</link>
     <description>Recent content in android, game on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://derekmarshall855.github.io/portfolioV2/tags/android-game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="//derekmarshall855.github.io/portfolioV2/tags/android-game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Captain Code</title>
-      <link>https://derekmarshall855.github.io/portfolioV2/blog/captain-code/</link>
+      <link>//derekmarshall855.github.io/portfolioV2/blog/captain-code/</link>
       <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://derekmarshall855.github.io/portfolioV2/blog/captain-code/</guid>
+      <guid>//derekmarshall855.github.io/portfolioV2/blog/captain-code/</guid>
       <description>&lt;p&gt;A group academic project built by me and four others (team of five) in December 2020. This was my first android application I had ever developed.&lt;/p&gt;</description>
     </item>
     
