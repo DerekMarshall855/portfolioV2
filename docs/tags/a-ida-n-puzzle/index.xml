@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A*, IDA*, N-Puzzle on Home</title>
-    <link>http://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/</link>
+    <link>https://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/</link>
     <description>Recent content in A*, IDA*, N-Puzzle on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://derekmarshall855.github.io/portfolioV2/tags/a-ida-n-puzzle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>N-Puzzle Solver</title>
-      <link>http://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</link>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</guid>
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/n-puzzle-python/</guid>
       <description>&lt;p&gt;A N-Puzzle solver that uses the IDA* and A* path finding algorithm. This was an acadmeic project programmed using python. Could solve 8, 15, and 24 block puzzles.&lt;/p&gt;</description>
     </item>
     
