@@ -1,6 +1,6 @@
 theme = "showfolio"
 languageCode = "en-us"
-baseurl = "https://derekmarshall855.github.io/portfolioV2/"
+baseurl = "http://derekmarshall855.github.io/portfolioV2/"
 title = "Home"
 publishDir = "docs"
 relativeURLs = true
