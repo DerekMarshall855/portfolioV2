@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - gh-pages  # Set a branch to deploy
   pull_request:
 
 jobs:
@@ -20,11 +20,6 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          submodules: true
 
       - name: Build
         run: hugo --minify
