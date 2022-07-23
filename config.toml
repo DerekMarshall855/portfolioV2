@@ -9,7 +9,7 @@ title = "Home"
   description = "Modern portfolio theme for your Hugo site."
   author = "Derek Marshall"
   authorEmail = "derekmarshall855@gmail.com"
-  authorImage = "./photo.png"
+  authorImage = "./images/photo.png"
   autoDarkMode = true
 
   copyright = "Copyright © 2021 - Derek Marshall · All rights reserved"
