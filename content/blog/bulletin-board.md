@@ -16,7 +16,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['Bulletin Board'](/images/bulletin_server.png)
+!['Bulletin Board'](../../images/bulletin_server.png)
 
 
 {{< css.inline >}}

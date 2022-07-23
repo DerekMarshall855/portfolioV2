@@ -18,7 +18,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['Captain Code Launch Screen'](/images/CC_Game.png)
+!['Captain Code Launch Screen'](../../images/CC_Game.png)
 
 
 {{< css.inline >}}

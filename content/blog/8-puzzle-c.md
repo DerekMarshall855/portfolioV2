@@ -14,7 +14,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['8-Puzzle Solver'](./images/8_puzzle.png)
+!['8-Puzzle Solver'](../../images/8_puzzle.png)
 
 
 {{< css.inline >}}

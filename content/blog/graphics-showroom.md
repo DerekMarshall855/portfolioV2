@@ -16,7 +16,7 @@ The Computer Graphics Showroom is not currently hosted on any service. If you wo
 
 ---
 
-!['graphics showroom'](/images/live_showroom.png)
+!['graphics showroom'](../../images/live_showroom.png)
 
 
 {{< css.inline >}}

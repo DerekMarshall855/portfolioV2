@@ -14,7 +14,7 @@ The Blog Site is not currently hosted on any service. This was one of my first s
 
 ---
 
-!['blog website'](/images/media_clone.png)
+!['blog website'](../../images/media_clone.png)
 
 
 {{< css.inline >}}

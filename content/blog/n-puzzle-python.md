@@ -14,7 +14,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['N-Puzzle Solver'](/images/python_puzzle.png)
+!['N-Puzzle Solver'](../../images/python_puzzle.png)
 
 
 {{< css.inline >}}

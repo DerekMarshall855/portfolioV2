@@ -18,7 +18,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['KAMP Screenshot'](/images/KAMP.png)
+!['KAMP Screenshot'](../../images/KAMP.png)
 
 
 {{< css.inline >}}

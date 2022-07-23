@@ -17,7 +17,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['Game Splash Screen'](/images/game_title.png)
+!['Game Splash Screen'](../../images/game_title.png)
 
 
 {{< css.inline >}}

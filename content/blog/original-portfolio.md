@@ -15,7 +15,7 @@ The [`Original Portfolio`](https://derekmarshall855.github.io/myportfolio) front
 
 ---
 
-!['webstore homepage'](/images/original_portfolio.png)
+!['webstore homepage'](../../images/original_portfolio.png)
 
 
 {{< css.inline >}}

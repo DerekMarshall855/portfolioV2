@@ -16,7 +16,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['mydynamicscheduler calendar page'](/images/calendar.png)
+!['mydynamicscheduler calendar page'](../../images/calendar.png)
 
 
 {{< css.inline >}}
