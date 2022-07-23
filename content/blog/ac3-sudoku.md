@@ -14,7 +14,7 @@ The code for this project can be found on my github or by following this [link!]
 
 ---
 
-!['AC3 Solver'](/images/sudoku.png)
+!['AC3 Solver'](./images/sudoku.png)
 
 
 {{< css.inline >}}

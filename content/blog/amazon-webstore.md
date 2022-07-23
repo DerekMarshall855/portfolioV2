@@ -14,7 +14,7 @@ The [`Amazon Webstore Clone`](https://webstore-clone.netlify.app/) frontend is c
 
 ---
 
-!['webstore homepage'](../images/amazon_clone.png)
+!['webstore homepage'](../../images/amazon_clone.png)
 
 
 {{< css.inline >}}
