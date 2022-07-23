@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graphics on Home</title>
-    <link>https://www.derekmarshall.net/tags/graphics/</link>
+    <link>https://derekmarshall855.github.io/portfolioV2/tags/graphics/</link>
     <description>Recent content in graphics on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.derekmarshall.net/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://derekmarshall855.github.io/portfolioV2/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Graphics Showroom</title>
-      <link>https://www.derekmarshall.net/blog/graphics-showroom/</link>
+      <link>https://derekmarshall855.github.io/portfolioV2/blog/graphics-showroom/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.derekmarshall.net/blog/graphics-showroom/</guid>
+      <guid>https://derekmarshall855.github.io/portfolioV2/blog/graphics-showroom/</guid>
       <description>&lt;p&gt;The first website I had ever built. This site used Three.JS library to render multiple objects and allow the user to traverse the room using &amp;lsquo;wasd&amp;rsquo; controls. The user could also interact with different lights and objects in the room, changing their color or direction.&lt;/p&gt;</description>
     </item>
     
